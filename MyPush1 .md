@@ -1,0 +1,3 @@
+# Diya1
+Firstproject 
+MY FIRST PUSH FILE INTO GIT HUB ALL THE BEST 
